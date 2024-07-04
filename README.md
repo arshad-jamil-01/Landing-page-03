@@ -1,3 +1,3 @@
 # web-task-02
-this is the landing page of a sofa.
+this is the landing page.
 HTML,tailwindcss was used to make it.
